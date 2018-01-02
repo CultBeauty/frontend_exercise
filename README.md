@@ -2,7 +2,7 @@
 
 The task is to create a bookmarklet that can analyse a web page, find product microdata and display the results. 
 
-You should deliver an HTML page with the source of the JavaScript and a minified bookmarklet link that can be dragged up to the bookmarks bar. The exercise shouldn't take longer than an hour to complete. If you feel that there are any obvious areas for improvement that you could make if you had more time to spend on it, please note them in your HTML file.
+You should deliver an HTML page with the readable source of the JavaScript and a minified bookmarklet link that can be dragged up to the bookmarks bar. The exercise shouldn't take longer than an hour to complete. If you feel that there are any obvious areas for improvement that you could make if you had more time to spend on it, please note them in your HTML file.
 
 You can use http://chriszarate.github.io/bookmarkleter/ to generate the bookmarklet link.
 
